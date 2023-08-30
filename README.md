@@ -32,7 +32,7 @@ Hello👋, Welcome to My technical assessment :)
   
 - 💪 Run mvn clean test.
 
-- 💪 You can dynamically run this repo in chrome of firefox, **Ex:** mvn clean test -Dbrowser="chrome"
+- 💪 You can dynamically run this repo in chrome of firefox, **Ex:** mvn clean test -Dbrowser="chrome"  .
 
 
 ## Thank You! 🥳
