@@ -27,4 +27,12 @@ Hello👋, Welcome to My technical assessment :)
 
 - 💪 Add the dependencies into Your pom.xml file.
   
-- 💪 Run mvn clean test
+- 💪 Run mvn clean test.
+
+
+## Thank You! 🥳
+- Thank you for reviewing the assignment! Feel free to ask me any question
+
+
+
+
