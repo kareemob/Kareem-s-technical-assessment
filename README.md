@@ -1,10 +1,10 @@
 ## Introduction
 Hello👋, Welcome to My technical assessment :)
 
-## Tools
-The following tools are used in this project:
+**Tools**
+  1. Selenium
+  2. TestNg
 
-- Selenium
-- TestNg
+     
   
 
