@@ -30,9 +30,9 @@ Hello👋, Welcome to My technical assessment :)
 
 - 💪 Add the dependencies into Your pom.xml file.
   
-- 💪 Run mvn clean test.
+- 💪 Run "mvn clean test" .
 
-- 💪 You can dynamically run this repo in chrome of firefox, **Ex:** mvn clean test -Dbrowser="chrome"  .
+- 💪 You can dynamically run this repo in chrome of firefox, **Ex:** "mvn clean test -Dbrowser="chrome""  .
 
 
 ## Thank You! 🥳
