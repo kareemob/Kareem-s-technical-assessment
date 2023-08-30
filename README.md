@@ -43,6 +43,9 @@ Hello👋, Welcome to My technical assessment :)
 - 💪 Run ```allure serve allure-results``` To generete the Report.
 
 
+
+
+
 ## Thank You! 🥳
 - Thank you for reviewing the assignment! Feel free to ask me any questions.
 
