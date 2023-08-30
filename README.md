@@ -1,7 +1,7 @@
 ## Introduction
 Hello👋, Welcome to My technical assessment :)
 
-**Tools**
+**Tools:**
 
 
   
@@ -13,7 +13,7 @@ Hello👋, Welcome to My technical assessment :)
 
 ## My Approach
 
-- ✅ The first step for me was understanding the requirements and doing manual testing.
+- ✅ The first step for me was understanding the Website and doing manual testing.
 
 - ✅ Plan the Required test cases.
 
@@ -42,7 +42,7 @@ Hello👋, Welcome to My technical assessment :)
 
 
 ## Thank You! 🥳
-- Thank you for reviewing the assignment! Feel free to ask me any question
+- Thank you for reviewing the assignment! Feel free to ask me any questions.
 
 
 
