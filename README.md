@@ -9,7 +9,10 @@ Hello👋, Welcome to My technical assessment :)
 
 - ✅ The first step for me was understanding the requirements and doing manual testing.
 
-- ✅ Plan the E2E test cases.
+- ✅ Plan the Required test cases.
+
+- ✅ I used Page Object Model Design
+
   
 ## Obstacles
 
@@ -28,6 +31,8 @@ Hello👋, Welcome to My technical assessment :)
 - 💪 Add the dependencies into Your pom.xml file.
   
 - 💪 Run mvn clean test.
+
+- 💪 You can dynamically run this repo in chrome of firefox, **Ex:** mvn clean test -Dbrowser="chrome"
 
 
 ## Thank You! 🥳
