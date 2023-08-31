@@ -17,7 +17,7 @@ Hello👋, Welcome to My technical assessment :)
 
 - ✅ Plan the Required test cases.
 
-- ✅ I used Page Object Model Design and Singleton Design
+- ✅ I used Page Object Model Design and Singleton Design.
 
   
 ## Obstacles
